@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://yogitaatigoy.github.io/tcdl2025-canopytest
+
+# Sitemaps
+Sitemap: https://yogitaatigoy.github.io/tcdl2025-canopytest/sitemap.xml
