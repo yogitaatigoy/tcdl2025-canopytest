@@ -1,0 +1,16 @@
+{
+  "collection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/all-souls",
+  "devCollection": "https://example.org/iiif/collection-small-sample.json",
+  "metadata": ["Date", "Subject"],
+  "label": { "none": ["TCDL 2025"] },
+  "summary": {
+    "none": ["Example Canopy build."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "plum",
+    "grayColor": "sage",
+    "radius": "full",
+    "scaling": "100%"
+  }
+}
